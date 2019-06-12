@@ -1,5 +1,8 @@
 ## Installing Node.js
 
+If you are using cloud9, npm will be installed for you.  If not, then you should use one of these methods to install npm.
+
+## Installing via nmv
 My preferred way to install node is to use
 [nvm](https://github.com/creationix/nvm). This lets you install
 multiple versions of node simultaneously, in case different apps need
